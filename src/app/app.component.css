@@ -1,0 +1,19 @@
+p {
+  color: #ffffff;
+  font-size: 4rem;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.25rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 4rem;
+  text-align: center;
+}
+nav {
+  display: flex;
+}
+
+canvas {
+  touch-action: none;
+}
