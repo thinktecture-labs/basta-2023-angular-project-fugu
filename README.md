@@ -1,12 +1,6 @@
-# Implementing desktop-class productivity apps with Angular and Project Fugu 🅰️💘🐡
+# PWA-Workshop: Angular Everywhere - So entwickeln Sie Progressive Web Apps für alle Plattformen (hands-on)
 
-[NG-DE 2022](https://ng-de.org/), 5th October 2022, 09:00–17:00
-
-Trainer: Christian Liebel ([@christianliebel](https://twitter.com/christianliebel))
-
----
-
-Chris is a GDE for Angular and web capabilities. In his hands-on workshop, you’ll learn how to implement desktop-class productivity apps using the new Project Fugu web APIs. This joint project between Google, Intel, Microsoft, and others seeks to bring missing features to the web, including access to the local file system, clipboard, and registering Angular apps as default file handlers. Learn how you can finally bring productivity apps like IDEs, image editors, or office apps to the web! You also need to bring your own laptop to this workshop.
+[BASTA! 2023](https://basta.net/), 29. September 2023, 08:30–16:30
 
 ## Setup Instructions
 
