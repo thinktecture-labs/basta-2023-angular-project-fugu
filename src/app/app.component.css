@@ -16,4 +16,5 @@ nav {
 
 canvas {
   touch-action: none;
+  border: 1px solid #fff;
 }
